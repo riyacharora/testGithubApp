@@ -12,7 +12,6 @@ struct ContentView: View {
         Text("GitHub App")
             .font(.title)
             .foregroundColor(Color.blue)
-    
     }
 }
 
